@@ -1,1 +1,1 @@
-# cola.github.io
+# cola
